@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<img align="right" alt="Coding" width="10" height="10" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo-640x400.png">
+<img align="right" alt="Coding" width="20" height="20" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo-640x400.png">
 
 
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
