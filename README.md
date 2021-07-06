@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new tools and develop my skills and quick hacks.\
 🎓 &nbsp;I'm currently doing my post graduate program in data science and engineering in Great learning bangalore.\
-🌱 &nbsp;I'm on track for learning more about Machine Learnings, Deep Learning, Natural language processing.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning, Natural language processing and Api.\
 ✉️ &nbsp;You can shoot me an email at vikashm2998@gmail.com I'll try to respond as soon as I can.\
 
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
