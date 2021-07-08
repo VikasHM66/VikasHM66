@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Vikas</h1>
-<h3 align="center"> a self motivated data science ethusiast</h3>
+<h3 align="center"> a self motivated data science and machine learning ethusiast</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
