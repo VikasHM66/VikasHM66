@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Vikas</h1>
 # A self motivated data science and machine Learning enthusiast.
 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new tools and develop my skills and quick hacks.\
