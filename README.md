@@ -22,7 +22,7 @@ A aspiring Data science and machine Learning enthusiast. I love to work with Pyt
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
 ## My Repositories at Glance
-  ### Machine Learning
+  - ### Machine Learning
 
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
