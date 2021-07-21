@@ -22,10 +22,14 @@ A aspiring Data science and machine Learning enthusiast. I love to work with Pyt
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
   
 ## My Repositories at Glance.
-  - ### Machine Learning.
 - [Supervised Learning Regression](https://github.com/VikasHM66/Supervised-Learning-Regression):
-  
-
-
+- [Supervised Learning Classification](https://github.com/VikasHM66/Supervised-Learning-Classification):
+- [Unsupervised Learning Clustering](https://github.com/VikasHM66/Unsupervised-learning):
+- [Statistics for Data Analytics & Machine Learning](https://github.com/VikasHM66/STATISTICS):
+- [Exploratory Data Analysis](https://github.com/VikasHM66/EDA)
+- [Tableau for Visualization](https://github.com/VikasHM66/Tableau) 
+- [MySQL](https://github.com/VikasHM66/MySQL-Part-1):
+- [Case Studies on Machine Learning](https://github.com/VikasHM66/Case-studies):
+ 
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
