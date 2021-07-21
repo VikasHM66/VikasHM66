@@ -1,18 +1,23 @@
-<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Vikas</h1>
-# A self motivated data science and machine Learning enthusiast.
+### Hi 👋 I am Vikas!
 
-<details open>
+A aspiring Data science and machine Learning enthusiast. I love to work with Python, MySQL, Statistics and Machine Learning to name a few. Please feel free to reach out to me 🙂
+
+### 👨🏻‍💻 &nbsp;About Me
+- 🎓 I'm currently doing my post graduate program in data science and engineering in Great learning bangalore.
+- 🔭 I’m on a track for Learning more about Machine Learning, Deep Learning and Natural Language Processing.
+- ⚡ I’m interested in the area of Data Analytics and Machine Learning.
+- 🌱 I’m currently learning how to deploy a machine learning model using flask framework on cloud platfrom.
+- 💡  I like to explore new tools and develop my skills and quick hacks.
+- ✉️ &nbsp;You can shoot me an email at vikashm2998@gmail.com I'll try to respond as soon as I can.
+- 👯 I’m always open to meaningful collaborations.
+- 😄 Pronouns: He/His
+
 <summary>🤝 <b>Connect with me</b></summary>
 
 <p align = "center">
+  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikashm66/)
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new tools and develop my skills and quick hacks.\
-🎓 &nbsp;I'm currently doing my post graduate program in data science and engineering in Great learning bangalore.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning, Natural language processing and Api.\
-✉️ &nbsp;You can shoot me an email at vikashm2998@gmail.com I'll try to respond as soon as I can.\
 
 
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
