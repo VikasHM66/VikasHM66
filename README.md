@@ -23,7 +23,7 @@ A aspiring Data science and machine Learning enthusiast. I love to work with Pyt
 
 ## My Repositories at Glance
   - ### Machine Learning
-        -(https://github.com/VikasHM66/Supervised-Learning-Regression)
+        -[Supervised-Learning-Regression](https://github.com/VikasHM66/Supervised-Learning-Regression)
 
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
