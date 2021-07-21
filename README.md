@@ -10,5 +10,5 @@
 
 
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
-<img align="left" alt="Coding" width="350" height="200" src="https://editor.analyticsvidhya.com/uploads/88587machine-learning-concept-chart-keywords-icons-white-background-137897366.jpg">
+
 
