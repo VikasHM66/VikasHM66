@@ -19,7 +19,7 @@ A aspiring Data science and machine Learning enthusiast. I love to work with Pyt
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikashm66/)
 
-
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+
 
 
