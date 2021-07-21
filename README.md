@@ -20,8 +20,8 @@ A aspiring Data science and machine Learning enthusiast. I love to work with Pyt
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikashm66/)
 
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
-----
-# My Repositories at Glance.
+  
+## My Repositories at Glance.
   - ### Machine Learning.
 - [Supervised Learning Regression](https://github.com/VikasHM66/Supervised-Learning-Regression):
   
