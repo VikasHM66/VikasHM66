@@ -19,6 +19,9 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikashm66/)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasHM66&layout=compact" width="400" height="200">
+<p>
+
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
   
 ## My Repositories at Glance.
