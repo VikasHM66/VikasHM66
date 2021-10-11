@@ -1,6 +1,6 @@
 ### Hi 👋 I am Vikas!
 
-#### Aspiring Data science and machine Learning enthusiast. I love to work with Python, MySQL, Statistics and Machine Learning, Excel & Tableau. Please feel free to reach out to me 🙂
+#### Aspiring Data science and machine Learning enthusiast. I love to work with Python, MySQL, Statistics, Machine Learning, Excel & Tableau. Please feel free to reach out to me 🙂
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 I'm currently doing my post graduate program in data science and engineering in Great learning bangalore.
