@@ -35,6 +35,8 @@ Let's connect to explore collaborations, share knowledge, and propel the future 
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
   
 ## My Repositories at Glance.
+- [Automated Fraud Detection System with MLOps Integration](https://github.com/VikasHM66/Automated-Fraud-Detection-System-with-MLOps-Integration):
+- [Remote Sensing Image Classification](https://github.com/VikasHM66/Remote-Sensing-Image-Classification):
 - [Supervised Learning Regression](https://github.com/VikasHM66/Supervised-Learning-Regression):
 - [Supervised Learning Classification](https://github.com/VikasHM66/Supervised-Learning-Classification):
 - [Unsupervised Learning Clustering](https://github.com/VikasHM66/Unsupervised-learning):
