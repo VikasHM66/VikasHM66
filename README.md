@@ -1,16 +1,25 @@
 ### Hi 👋 I am Vikas!
 
-#### Aspiring Data science and machine Learning enthusiast. I love to work with Python, MySQL, Statistics, Machine Learning, Excel & Tableau. Please feel free to reach out to me 🙂
-
 ### 👨🏻‍💻 &nbsp;About Me
-- 🎓 I'm currently doing my post graduate program in data science and engineering in Great learning bangalore.
-- 🔭 I’m on a track for Learning more about Machine Learning, Deep Learning and Natural Language Processing.
-- ⚡ I’m interested in the area of Data Analytics and Machine Learning.
-- 🌱 I’m currently learning how to deploy a machine learning model using flask framework on cloud platfrom.
-- 💡  I like to explore new tools and develop my skills and quick hacks.
-- ✉️ &nbsp;You can shoot me an email at vikashm2998@gmail.com I'll try to respond as soon as I can.
-- 👯 I’m always open to meaningful collaborations.
-- 😄 Pronouns: He/His
+As a certified data science professional with 2.5 years of experience in the dynamic field of education technology, I bring a versatile skill set and a passion for driving innovation in the realm of data analytics, artificial intelligence, and machine learning.
+
+🔍 Skills & Expertise:
+My proficiency spans data analysis, Python, SQL, MongoDB, Excel, Tableau, Machine learning, MLOps, deep learning, web development, Docker, Kubernetes, Git, GitHub, DVC, and more. I thrive on staying at the forefront of technology and continuously expanding my toolkit.
+
+💼 Current Role:
+Currently, I serve as a Data Scientist at Great Learning, where I design and develop high-quality courses in data analytics, artificial intelligence, and machine learning. I take pride in creating engaging and impactful content while providing technical support to ensure an enriching learning experience.
+
+🎓 Industry Mentorship:
+Beyond my role, I am passionate about nurturing the next generation of data scientists. As an Industry Mentor, I conduct sessions on data science for young graduates and professionals. It's immensely fulfilling to contribute to their growth and witness their success in the ever-evolving tech landscape.
+
+🚀 Future Interests:
+Eager to delve deeper into the realms of deep learning, natural language processing (NLP), big data tools, and cloud concepts. My journey is a perpetual quest for knowledge and innovation.
+
+Let's connect to explore collaborations, share knowledge, and propel the future of data science education.
+
+✉️ &nbsp;You can shoot me an email at vikashm2998@gmail.com I'll try to respond as soon as I can.
+
+👯 I’m always open to meaningful collaborations.
 
 <summary>🤝 <b>Connect with me</b></summary>
 
