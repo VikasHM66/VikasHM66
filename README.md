@@ -1,7 +1,7 @@
 ### Hi 👋 I am Vikas!
 
 ### 👨🏻‍💻 &nbsp;About Me
-As a certified data science professional nearly 3 years of experience in the dynamic field of eduation technology, I bring a versatile skill set and a passion for driving innovation in the realm of data analytics, artificial intelligence, and machine learning.
+As a certified data science professional nearly 3 years of experience in the dynamic field of education technology, I bring a versatile skill set and a passion for driving innovation in the realm of data analytics, artificial intelligence, and machine learning.
 
 🔍 Skills & Expertise:
 My proficiency spans data analysis, Python, SQL, MongoDB, Excel, Tableau, Machine learning, MLOps, deep learning, web development, Docker, Kubernetes, Git, GitHub, DVC, and more. I thrive on staying at the forefront of technology and continuously expanding my toolkit.
