@@ -19,7 +19,7 @@ Let's connect to explore collaborations, share knowledge, and propel the future 
 
 ✉️ &nbsp;You can shoot me an email at vikashm2998@gmail.com I'll try to respond as soon as I can.
 
-👯 I’m always open to meaningful collaborations.
+👯 I’m always open to meaningful collaborations
 
 <summary>🤝 <b>Connect with me</b></summary>
 
